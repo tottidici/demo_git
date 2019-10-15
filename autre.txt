@@ -1,1 +1,2 @@
-ceci est un nouveau fichei²
+ceci est un nouveau fichei
+rajout de qqch
